@@ -1,6 +1,6 @@
-####Readme
+#### Readme
 
-Este proyecto est· orientado a BDD, hace uso de herramientas basadas en bdd como Cucumber y Serenity BDD
+Este proyecto est√° orientado a BDD, hace uso de herramientas basadas en bdd como Cucumber y Serenity BDD
 
 Para ejecutar el proyecto se debe tener configurado en el ID: Gradle y JUnit
 Refrescar proyecto desde Gradle
